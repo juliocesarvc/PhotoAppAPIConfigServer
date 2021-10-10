@@ -1,1 +1,1 @@
-# Config Server PhotoAppAPIConfigServer
+# SpringCloud Config Server PhotoAppAPIConfigServer
